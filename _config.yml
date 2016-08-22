@@ -1,4 +1,3 @@
-layout_spectrum: 0.3829839969985187
 typography_spectrum: 0.28473293501883745
 color:
   brandStrength: 0.7693090215325356
@@ -6,9 +5,11 @@ color:
   saturation: 0.596802408574149
   rhythmicContrast: 0.5007658330723643
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.3829839969985187
 name: random things
+description: asdlkj
